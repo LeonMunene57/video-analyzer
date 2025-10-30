@@ -1,1 +1,9 @@
-python
+streamlit
+#to make building custom web apps easier
+
+pytube
+#to extract audio from the uploaded youtube links
+
+
+
+
