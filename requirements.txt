@@ -1,9 +1,17 @@
 streamlit
 #to make building custom web apps easier
 
-pytube
-#to extract audio from the uploaded youtube links
 
+moviepy
+#to extract audio from local video files
 
+openai-whisper
+#transcription of the audio file
 
+ffmpeg-python
+#to build and execute FFmpeg commands 
+#for easier multimedia processing
 
+torch
+torchvision
+torchaudio
