@@ -1,17 +1,12 @@
-streamlit
-#to make building custom web apps easier
-
-
-moviepy
-#to extract audio from local video files
-
-openai-whisper
-#transcription of the audio file
-
-ffmpeg-python
-#to build and execute FFmpeg commands 
-#for easier multimedia processing
-
-torch
-torchvision
-torchaudio
+streamlit==1.38.0
+pytube==15.0.0
+moviepy==1.0.3
+openai-whisper==20231117
+torch==2.1.2
+transformers==4.45.1
+datasets==2.21.0
+accelerate==0.34.2
+peft==0.12.0
+ffmpeg-python==0.2.0
+pydub==0.25.1
+numpy==1.26.4
