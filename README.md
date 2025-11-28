@@ -9,7 +9,7 @@ This project is a Streamlit application that processes educational YouTube video
 - Input YouTube URLs or upload local video/audio files
 - Automatic audio extraction from videos (PyTube + MoviePy)
 - Speech‑to‑text transcription with OpenAI Whisper
-- Abstractive summarization with a LoRA‑fine‑tuned T5 model
+- Abstractive summarization with a fine‑tuned T5 model
 - Simple Streamlit UI with progress indicators and downloadable text notes
 - GPU/TPU friendly, tested in Google Colab environments
 
